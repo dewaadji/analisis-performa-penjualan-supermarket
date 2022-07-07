@@ -1,4 +1,4 @@
-# analisis performa penjualan supermarket
+# Analisis Performa Penjualan Supermarket
 Pertumbuhan supermarket di kota-kota terpadat semakin meningkat dan persaingan pasar juga tinggi. Dataset ini merupakan salah satu history penjualan perusahaan supermarket yang tercatat di 3 cabang berbeda selama 3 bulan data yaitu pada Januari 2019 - Maret 2019.
 Pada dataset ini akan dilakukan analisis dengan indikator yang digunakan sebagai berikut:
 1.	Mengetahui jumlah gross income dari tiap cabang,
