@@ -6,6 +6,7 @@ This dataset will be analyzed with the following indicators:
 3.	Knowing the payment methods used by customers in transactions at each branch,
 4.	Knowing the product category with the highest sales,
 5.	Knowing product categories with high ratings.
+
 The only data used in the project is the supermarket_sales table in dollar $ with a complete description:
 - InvoiceID: Computer-generated sales invoice identification number
 - City: Supercenter location
