@@ -1,21 +1,21 @@
-# Analisis Performa Penjualan Supermarket
-Pertumbuhan supermarket di kota-kota terpadat semakin meningkat dan persaingan pasar juga tinggi. Dataset ini merupakan salah satu history penjualan perusahaan supermarket yang tercatat di 3 cabang berbeda selama 3 bulan data yaitu pada Januari 2019 - Maret 2019.
-Pada dataset ini akan dilakukan analisis dengan indikator yang digunakan sebagai berikut:
-1.	Mengetahui jumlah gross income dari tiap cabang,
-2.	Mengetahui aktivitas penjualan tertinggi dari tiap cabang,
-3.	Mengetahui metode pembayaran yang digunakan customer dalam bertransaksi di tiap cabang,
-4.	Mengetahui kategori produk dengan penjualan tertinggi,
-5.	Mengetahui kategori produk dengan rating yang tinggi.
-Data yang digunakan pada projek hanya tabel supermarket_sales dalam satuan dollar $ dengan deskripsi lengkapnya:
--	InvoiceID: Nomor identifikasi faktur penjualan yang dihasilkan computer
--	City: Lokasi supercenter
--	Customer_type: Jenis pelanggan, dicatat oleh Anggota untuk pelanggan yang menggunakan kartu anggota dan Normal untuk tanpa kartu anggota.
--	Gender: Jenis kelamin pelanggan
--	Product_line: Grup kategorisasi barang umum 
--	Unit_price: Harga setiap produk dalam dollar ($)
--	Quantity: Jumlah produk yang dibeli oleh pelanggan
--	Total: Total harga termasuk pajak
--	Date_of_month: Tanggal pembelian (Catatan tersedia dari Januari 2019 hingga Maret 2019)
--	Payment: Pembayaran yang digunakan pelanggan untuk pembelian (tersedia 3 metode – Tunai, Kartu kredit, dan Ewallet)
--	gross_income: Pendapatan kotor
--	Rating: Peringkat stratifikasi pelanggan pada pengalaman berbelanja mereka secara keseluruhan (Pada skala 1 hingga 10)
+# Supermarket Sales Performance Analysis
+The growth of supermarkets in the most populous cities is increasing and market competition is also high. This dataset is one of the sales history of supermarket companies recorded in 3 different branches for 3 months of data, namely in January 2019 - March 2019.
+This dataset will be analyzed with the following indicators:
+1.	Knowing the amount of gross income from each branch,
+2.	Knowing the highest sales activity of each branch,
+3.	Knowing the payment methods used by customers in transactions at each branch,
+4.	Knowing the product category with the highest sales,
+5.	Knowing product categories with high ratings.
+The only data used in the project is the supermarket_sales table in dollar $ with a complete description:
+- InvoiceID: Computer-generated sales invoice identification number
+- City: Supercenter location
+- Customer_type: Customer type, recorded by Member for customers with a membership card and Normal for those without a membership card.
+- Gender: The gender of the customer
+- Product_line: General item categorization group 
+- Unit_price: Price of each product in dollars ($)
+- Quantity: The number of products purchased by the customer
+- Total: Total price including tax
+- Date_of_month: Date of purchase (Records available from January 2019 to March 2019)
+- Payment: Payment used by customer for purchase (3 methods available - Cash, Credit card, and Ewallet)
+- gross_income: Gross income
+- Rating: Customer's stratified rating on their overall shopping experience (On a scale of 1 to 10)
